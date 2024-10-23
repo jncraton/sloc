@@ -3,6 +3,8 @@ SLOC
 
 In software engineering, [source lines of code (SLOC)](https://en.wikipedia.org/wiki/Source_lines_of_code) has been used as a measure of productivity and developer effort. This lab provides the opportunity to create a simple Python SLOC counter while continuing to explore string and file operations.
 
+For the purpose of this lab, we simply define a source line of code as any line that is not blank and is not a comment.
+
 Learning Objectives
 -------------------
 
@@ -14,7 +16,7 @@ After completing this lab, students will be able to:
 Task
 ----
 
-Create a Python program that can count the source lines of code in a Python file. A sample program run (against the included [example.py](example.py) file from this repository is shown below:
+Create a Python program that can count the source lines of code in a Python file. A sample program run against the included [example.py](example.py) file from this repository is shown below:
 
     Enter Python file for SLOC count: example.py
     Lines: 12
