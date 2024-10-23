@@ -29,7 +29,7 @@ The program should also write a report to `report.txt` that lists total lines, b
     Comments 5
     SLOC 3
 
-Handout code is provided that includes a definitions and tests for `is_blank` and `is_comment` helper functions. Complete these functions first.
+Handout code is provided in [sloc.py](sloc.py) that includes a definitions and tests for `is_blank` and `is_comment` helper functions. Complete these functions first.
 
 With those helper functions available, you can then create a program that does the following:
 
