@@ -4,7 +4,7 @@ def is_blank(line):
     Blank lines may include whitespace, but not other characters
 
     :param line: String representing a line of text
-    :return: Boolean that will be True if the line contains text
+    :return: Boolean that will be True if the line contains only whitespace
     """
 
     return None
