@@ -34,7 +34,7 @@ Handout code is provided in [sloc.py](sloc.py) that includes a definitions and t
 With those helper functions available, you can then create a program that does the following:
 
 1. Asks the user for a source file to read
-2. Open the file, properly accounting for possible errors
+2. Opens the file, properly accounting for possible errors
 3. Iterates the file and computes appropriate counts
 4. Displays these counts directly for the user
 5. Writes counts to `report.txt` for review later
